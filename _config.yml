@@ -12,7 +12,7 @@ title                    : "Patrick CN Martin, PhD"
 title_separator          : "-"
 name                     : &name "Patrick CN Martin"
 description              : &description "personal description"
-url                      : patrickcnmartin.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "patrickcnmartin.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "patrickcnmartin/patrickcnmartin.github.io/"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Patrick CN Martin, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "why not working"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
