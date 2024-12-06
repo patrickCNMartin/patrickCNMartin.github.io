@@ -21,7 +21,7 @@ repository               : "patrickcnmartin/patrickcnmartin.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Patrick CN Martin, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Research Data Scientist - Bioinformatician - Data Manager - Molecular Biologist - Writer"
