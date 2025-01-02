@@ -228,10 +228,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _scifi
   - scope:
       path: ""
-      type: posts
+      type: scifi
     values:
       layout: single
       author_profile: true
