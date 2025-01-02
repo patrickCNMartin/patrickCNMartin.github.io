@@ -267,7 +267,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: software
     values:
       layout: single
       author_profile: true
