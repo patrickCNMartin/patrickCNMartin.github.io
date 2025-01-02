@@ -2,6 +2,7 @@
 title: "ChIPanalyser"
 excerpt: "ChIPanalyser: Predicting Transcription Factor Binding Sites"
 collection: software
+date: 2022
 ---
 
 ## GitHub Page

@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.software reversed %}
+{% for post in site.software %}
   {% include archive-single.html %}
 {% endfor %}

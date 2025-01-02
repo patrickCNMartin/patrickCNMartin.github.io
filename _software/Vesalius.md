@@ -2,6 +2,7 @@
 title: "Vesalius"
 excerpt: "Vesalius: Dissecting Tissue Anatomy from Spatial Transcriptomic Data"
 collection: software
+date: 2025
 ---
 
 ## GitHub Page
