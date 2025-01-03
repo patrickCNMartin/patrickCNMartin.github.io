@@ -14,7 +14,8 @@ Welcome, Traveller!
 
 I am a bioinformatician and data science researcher.
 
-I started as a molecular biologist but realized that computational biology and bioinformatics was far more fun and safer.  
+I started as a molecular biologist but realized that computational biology and bioinformatics was far more fun and safer.
+
 I am what is commonly referred to as “pretty clumsy,” to the point where I would probably need my own lab safety hazard training section. To quote a friend when I once tripped and fell on a flat beach: “How on earth did you manage to survive this long?”
 
 **My current work focuses on developing tools to understand how cells organize themselves into complex tissues and how we can use that knowledge to our advantage.**
