@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks, Presentations, and Outreach"
 permalink: /talks/
 author_profile: true
 ---
@@ -16,7 +16,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 -->
-# Presentations  
+## Presentations  
 
 **Invited Speaker**: *Mapping spatial omics when tissue architecture doesn’t match*  
 **Event**: ISMB24  
@@ -110,7 +110,7 @@ author_profile: true
 
 ---
 
-# Outreach  
+## Outreach  
 
 **Invited Guest**  
 **Event**: The Genomics Lab podcast hosted by Dr. Olivia Grant  
