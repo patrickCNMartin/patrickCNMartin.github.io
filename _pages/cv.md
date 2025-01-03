@@ -114,6 +114,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+---
+
 <!-- 
   
 Talks
@@ -128,8 +130,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-
-
 
 Talks
 ======
