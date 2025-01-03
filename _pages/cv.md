@@ -338,6 +338,117 @@ Teaching
 
 
   
-Service and leadership
+Honors & Awards
+=====
+
+
+**Grant**: *CIRM DISC0 Grant*  
+**Contribution**: Data Manager Salary Contribution  
+**Location**: Los Angeles, USA  
+**Date**: 2024  
+
+---
+
+**Grant**: *Travel Grant*  
+**Event**: Genetic Society - Junior Scientist Conference Travel Grants  
+**Location**: London, UK  
+**Date**: 2017  
+
+---
+
+**Grant**: *Travel Grant*  
+**Event**: University of Essex School Travel Grants  
+**Location**: Colchester, UK  
+**Date**: 2017  
+
+---
+
+**Award**: *Award for Best Student Presentation*  
+**Event**: DIANA Science Conference  
+**Location**: Uppsala, Sweden  
+**Date**: 2013  
+
+---
+
+Reviews
 ======
-* Currently signed in to 43 different slack teams
+
+**Reviewer**: *BMC Genomics*  
+**Organization**: BMC Genomics - Springer Nature Publications  
+**Location**: Colchester  
+**Date**: 2017 - Current  
+- Reviewed papers for BMC Genomics academic journal  
+
+---
+
+**Grant Reviewer**: *Massey Innovation Award Application*  
+**Organization**: Virginia Commonwealth University School of Medicine  
+**Location**: Richmond  
+**Date**: 2024  
+- Reviewed bioinformatics grant proposal  
+
+---
+
+Conference Organization
+======
+
+**Co-organizer**: *Spatial Biology Seminar Series*  
+**Organization**: Cedars-Sinai Medical Center 
+**Location**: Los Angeles  
+**Date**: Jan 2025  
+
+
+---
+
+
+**Organizer**: *The Graduate Forum*  
+**Organization**: University of Essex  
+**Location**: Colchester  
+**Date**: Aug 2019 - Sep 2019  
+- Organized and coordinated the Graduate Forum, an annual postgraduate student conference  
+
+---
+
+**Assistant**: *GATE Symposium*  
+**Organization**: University of Essex  
+**Location**: Colchester  
+**Date**: Sep 2019  
+- Assisted in the organization of the GATE Symposium at the University of Essex  
+
+---
+
+Writing
+======
+
+**Role Playing**: *Tabletop Role Playing Games and Storytelling*  
+**Organization**: Role Playing Games and Storytelling  
+**Date**: 2016 - Present  
+- Tabletop role-playing games like Dungeons & Dragons are not only incredibly fun but also teach teamwork, people management, and storytelling  
+
+---
+
+**Writer**: *The Institute*  
+**Organization**: Writing - Non-Fiction Reviews in a Fictional Setting  
+**Location**: [pcnmartin.substack.com](https://pcnmartin.substack.com/)  
+**Date**: 05/2024 - Present  
+- Explores recent advances in research that could lead to a Solar Punk future, alongside philosophical opinion pieces  
+
+---
+
+**Writer**: *Fantasy/Sci-Fi Book Series*  
+**Organization**: Writing - Fiction  
+**Date**: 2020 - Present  
+- Writing a fantasy and science fiction book series  
+
+---
+
+**Writer**: *Popular Science Books*  
+**Organization**: Writing - Non-Fiction  
+**Date**: 2023 - Present  
+- Writing popular science books on the subject of Intelligence, Modeling, and the scientific method  
+
+---
+
+
+
+
