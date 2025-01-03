@@ -30,13 +30,13 @@ Education
 
 Work experience
 ======
-### Project Data Manager  
+## Project Data Manager  
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
 **July 2024 - Present**  
 - Project Data Manager - CIRM DISC0  
 
-### Research Data Scientist  
+## Research Data Scientist  
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
 **Sep 2022 - Present**  
@@ -46,34 +46,51 @@ Work experience
 - Lead Researcher to understand multi-scale gene expression programs using super-pixels  
 - Lead Bioinformatician for Cancer competitivity projects  
 
-### Post Doctoral Researcher  
+## Post Doctoral Researcher  
 **BRIC - University of Copenhagen**  
 *Copenhagen, DK*  
 **Feb 2020 - Jul 2022**  
 - Lead Researcher - Analysis of Spatial transcriptomics through image processing and computer vision  
 - Analyst on various single-cell projects  
 
-### Senior Research Officer  
+## Senior Research Officer  
 **University of Essex**  
 *Colchester, UK*  
 **Sep 2019 - Dec 2019**  
 - Developer of lighteR - an R package dedicated to the analysis and modelling of Photosynthetic efficiency data - Lawson Lab  
 
-### Research Assistant  
+## Research Assistant  
 **University of Essex**  
 *Colchester, UK*  
 **Jul 2016 - Oct 2016**  
 - R package development (ChIPanalyser) - Zabet Lab  
 
-  
+
+<!-- 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+**Leadership & Supervision**  
+- Project Data Manager, Teaching, Project Student Supervision, Leadership Training  
+
+**Computational Methods**  
+- Biophysical modelling, Genetic algorithms, Computer Vision, Spatial Biology, Software Development
+
+**Genomics Data Handling**  
+- scRNA-seq, Spatial Biology (RNA, DNA, Protein, Epigenetic), ATAC-seq, DNAse-seq, RNA-seq, HiC  
+
+**Programming**  
+- R, Python, Julia, C++, Bash, Linux, HPC, Environments, Version Control  
+
+**Communication & Outreach**  
+- Storytelling, Presentations, Scientific Vulgarization, Creative Writing  
+
+**Molecular Biology**  
+- PCR/RT-PCR, DNA/RNA handling, Cloning, NGS, Microscopy  
+
+**Languages**  
+- French, English, Russian (Basic)
+-->
 
 Publications
 ======
