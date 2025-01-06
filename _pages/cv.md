@@ -33,6 +33,12 @@ Education
 
 ---
 
+**Leadership Course - HFP Consulting**
+**BRIC - University of Copenhagen**  
+*Copenhagen, DK*  
+**March 2022**  
+- 3-day workshop on leadership and supervision in scientific research led by HFP Consulting
+
 
 Work experience
 ======
@@ -285,14 +291,6 @@ Teaching
 *Los Angeles, USA*  
 **May 2023**  
 - Workshop on workflows and considerations for Spatial Transcriptomic analysis
-
----
-
-### Leadership Course - HFP Consulting  
-**BRIC - University of Copenhagen**  
-*Copenhagen, DK*  
-**March 2022**  
-- 3-day workshop on leadership and supervision in scientific research led by HFP Consulting
 
 ---
 
