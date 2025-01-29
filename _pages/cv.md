@@ -371,6 +371,14 @@ Honors & Awards
 Reviews
 ======
 
+**Reviewer**: *PeerJ*  
+**Organization**: PeerJ  
+**Location**: Los Angeles  
+**Date**: 2025- Current  
+- Reviewed papers for PeerJ
+
+---
+
 **Reviewer**: *BMC Genomics*  
 **Organization**: BMC Genomics - Springer Nature Publications  
 **Location**: Colchester  
@@ -426,10 +434,10 @@ Writing
 ---
 
 **Writer**: *The Institute*  
-**Organization**: Writing - Non-Fiction Reviews in a Fictional Setting  
+**Organization**: Writing - Real Science in a fictional setting. 
 **Location**: [pcnmartin.substack.com](https://pcnmartin.substack.com/)  
 **Date**: 05/2024 - Present  
-- Explores recent advances in research that could lead to a Solar Punk future, alongside philosophical opinion pieces  
+- Explores recent advances in research that could lead to a Solar Punk future, alongside philosophical opinion pieces
 
 ---
 
