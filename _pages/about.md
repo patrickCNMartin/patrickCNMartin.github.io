@@ -20,7 +20,7 @@ I started as a molecular biologist but realized that computational biology and b
 
 I am what is commonly referred to as “pretty clumsy,” to the point where I would probably need my own lab safety hazard training section. To quote a friend when I once tripped and fell on a flat beach: “How on earth did you manage to survive this long?”
 
-**My current work focuses on developing tools to understand how cells organize themselves into complex tissues and how we can use that knowledge to our advantage including through the use of simulation**
+**My current work focuses on developing tools to understand how cells organize themselves into complex tissues and how we can use that knowledge to our advantage including through the use of simulations.**
 
 
 Science fiction has often served as research inspiration for me. It is a window into what we could be and what we might be able to achieve one day.  It might explain why the idea of virtual cells, distrubuted systems, solar punk futures, and planet terraforming is so appealing to me. Thank you, Kim Stanley Robinson...
