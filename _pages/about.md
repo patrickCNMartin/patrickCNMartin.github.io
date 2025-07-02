@@ -14,7 +14,7 @@ Welcome, Traveller!
 
 I am a bioinformatician and data science researcher.
 
-I aim to make the [Solar Punk Aesthetic](https://www.youtube.com/watch?v=z-Ng5ZvrDm4&list=RDz-Ng5ZvrDm4&start_radio=1) a reality through lightweight AI models to produce better and cleaner biotechnology.
+I aim to make the [Solar Punk Aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U) a reality through lightweight AI models to produce better and cleaner biotechnology.
 
 I started as a molecular biologist but realized that computational biology and bioinformatics was far more fun and safer.
 
