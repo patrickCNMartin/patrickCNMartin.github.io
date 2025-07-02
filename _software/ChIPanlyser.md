@@ -5,6 +5,8 @@ collection: software
 date: 2022-01-01
 ---
 
+ChIPanalyser is a package to predict and understand TF binding by utilizing a statistical thermodynamic model. The model incorporates 4 main factors thought to drive TF binding: Chromatin State, Binding energy, Number of bound molecules and a scaling factor modulating TF binding affinity. Taken together, ChIPanalyser produces ChIP-like profiles that closely mimic the patterns seens in real ChIP-seq data.
+
 ## GitHub Page
 
 [ChIPanalyser GitHub](https://github.com/patrickCNMartin/ChIPanalyser)

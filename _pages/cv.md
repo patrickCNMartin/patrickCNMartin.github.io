@@ -149,6 +149,60 @@ Talks
 
 ---
 
+
+**Invited Speaker**: *Vesalius: high-resolution in silico anatomization of Spatial Transcriptomic data using Image Analysis*  
+**Event**: Single Cell Network Copenhagen  
+**Location**: Copenhagen, Denmark  
+**Date**: December 2021  
+- Showcased the Vesalius package - a novel tool to decipher tissue anatomy from Spatial transcriptomics using image analysis  
+
+---
+
+**Invited Speaker**: *Vesalius: high-resolution in silico anatomization of Spatial Transcriptomic data using Image Analysis*  
+**Event**: HeaDS Copenhagen  
+**Location**: Copenhagen, Denmark  
+**Date**: November 2021  
+- Showcased the Vesalius package - a novel tool to decipher tissue anatomy from Spatial transcriptomics using image analysis  
+
+---
+
+
+**Presenter**: *Vesalius: Image-free extraction and analysis of tissue anatomy by using image processing applied to sequencing-based Spatial Transcriptomics*  
+**Event**: ISMBECCB21  
+**Location**: Online  
+**Date**: July 2021  
+- Showcased the Vesalius package - a novel tool to decipher tissue anatomy from Spatial transcriptomics using image analysis  
+
+---
+
+**Presenter**: *Dissecting the binding mechanisms of transcription factors to DNA using a statistical thermodynamics framework*  
+**Event**: Chromatin Workshop  
+**Location**: Colchester, UK  
+**Date**: July 2019  
+- Presented the latest results obtained using ChIPanalyser in understanding transcription factor binding mechanisms  
+
+---
+
+**Presenter**: *Estimating Transcription Factor binding in *Drosophila* with ChIPanalyser*  
+**Event**: Quantitative Methods in Gene Regulation  
+**Location**: Cambridge, UK  
+**Date**: December 2017  
+- Introduced analysis carried out using ChIPanalyser
+
+---
+
+**Presenter**: *It from bit, bit from it*  
+**Event**: DIANA Science Conference  
+**Location**: Uppsala, Sweden  
+**Date**: October 2013  
+- Introduced the issue of information VS reality in science  
+
+---
+
+
+## Posters
+
+
 **Poster**: *Exploring tissue structure across spatial omic modalities with Vesalius*  
 **Event**: Single Cell Symposium  
 **Location**: San Diego, USA  
@@ -173,22 +227,6 @@ Talks
 
 ---
 
-**Invited Speaker**: *Vesalius: high-resolution in silico anatomization of Spatial Transcriptomic data using Image Analysis*  
-**Event**: Single Cell Network Copenhagen  
-**Location**: Copenhagen, Denmark  
-**Date**: December 2021  
-- Showcased the Vesalius package - a novel tool to decipher tissue anatomy from Spatial transcriptomics using image analysis  
-
----
-
-**Invited Speaker**: *Vesalius: high-resolution in silico anatomization of Spatial Transcriptomic data using Image Analysis*  
-**Event**: HeaDS Copenhagen  
-**Location**: Copenhagen, Denmark  
-**Date**: November 2021  
-- Showcased the Vesalius package - a novel tool to decipher tissue anatomy from Spatial transcriptomics using image analysis  
-
----
-
 **Poster**: *Vesalius: high-resolution in silico anatomization of Spatial Transcriptomic data using Image Analysis*  
 **Event**: Swedish Bioinformatics Workshop  
 **Location**: Lund, Sweden  
@@ -205,21 +243,6 @@ Talks
 
 ---
 
-**Presenter**: *Vesalius: Image-free extraction and analysis of tissue anatomy by using image processing applied to sequencing-based Spatial Transcriptomics*  
-**Event**: ISMBECCB21  
-**Location**: Online  
-**Date**: July 2021  
-- Showcased the Vesalius package - a novel tool to decipher tissue anatomy from Spatial transcriptomics using image analysis  
-
----
-
-**Presenter**: *Dissecting the binding mechanisms of transcription factors to DNA using a statistical thermodynamics framework*  
-**Event**: Chromatin Workshop  
-**Location**: Colchester, UK  
-**Date**: July 2019  
-- Presented the latest results obtained using ChIPanalyser in understanding transcription factor binding mechanisms  
-
----
 
 **Poster**: *ChIPanalyser: a versatile R/Bioconductor package to model and predict binding of transcription factors to DNA*  
 **Event**: ISCB/RECOMB  
@@ -229,13 +252,6 @@ Talks
 
 ---
 
-**Presenter**: *Estimating Transcription Factor binding in *Drosophila* with ChIPanalyser*  
-**Event**: Quantitative Methods in Gene Regulation  
-**Location**: Cambridge, UK  
-**Date**: December 2017  
-- Introduced analysis carried out using ChIPanalyser
-
----
 
 **Poster**: *Estimating Transcription Factor binding in *Drosophila* with ChIPanalyser*  
 **Event**: EMBO Nuclear Dynamics  
@@ -253,13 +269,7 @@ Talks
 
 ---
 
-**Presenter**: *It from bit, bit from it*  
-**Event**: DIANA Science Conference  
-**Location**: Uppsala, Sweden  
-**Date**: October 2013  
-- Introduced the issue of information VS reality in science  
 
----
 
 ## Outreach  
 
@@ -278,10 +288,12 @@ Talks
 Teaching
 =======
 
+## Teaching
+
 ### Spatial Transcriptomic - Applied Computational Genomics - Graduate Course  
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
-**April 2024**  
+**2024 - Current**  
 - Spatial Transcriptomic Analysis with Vesalius
 
 ---
@@ -293,6 +305,32 @@ Teaching
 - Workshop on workflows and considerations for Spatial Transcriptomic analysis
 
 ---
+
+### Graduate Laboratory Assistant (GLA)  
+**University of Essex**  
+*Colchester, UK*  
+**February 2017 - April 2020**  
+- Computational Data Analysis: R for Life Sciences  
+- Genome Bioinformatics - GLA  
+- Genomics - GLA  
+
+---
+
+### Lecturer  
+**University of Essex**  
+*Colchester, UK*  
+**February 2017 - April 2019**  
+- Essex Big Data and Analytics Summer School - Lecturer
+
+
+
+## Student Supervision
+
+### Master's Student Supervision  
+**Cedars-Sinai Medical Center - Soongsil University**  
+*Los Angeles, USA - Seoul, Korea*  
+**July 2024 - Current**  
+- Supervision of project students working on the development of Multi-scale spatial methods
 
 ### Master's Student Supervision  
 **BRIC - University of Copenhagen**  
@@ -316,23 +354,6 @@ Teaching
 **February 2017 - April 2020**  
 - Supervision of project students working with ChIPanalyser
 
----
-
-### Graduate Laboratory Assistant (GLA)  
-**University of Essex**  
-*Colchester, UK*  
-**February 2017 - April 2020**  
-- Computational Data Analysis: R for Life Sciences  
-- Genome Bioinformatics - GLA  
-- Genomics - GLA  
-
----
-
-### Lecturer  
-**University of Essex**  
-*Colchester, UK*  
-**February 2017 - April 2019**  
-- Essex Big Data and Analytics Summer School - Lecturer
 
 
   

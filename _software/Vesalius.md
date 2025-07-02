@@ -5,6 +5,19 @@ collection: software
 date: 2025-01-01
 ---
 
+Vesalius offers a wide range of tools for the analysis of spatial omics data. The original purpose of the package was to offer spatial domain identification capabilities in spatial transcriptomics data.
+
+Since we have introduce the following functionalities:
+
+* Multi-modal spatial domain identification
+* Advanced dimensionality reduction options (PCA, UMAP, NMF, LSI, custom)
+* Domain layering
+* Comparison of cells across spatial domains
+* Cell to cell mapping across spatial samples using multi-scale and multicontext information
+* Mapping clusters
+* Patient level clustering and stratification
+* Improved efficieny with parallelism and C++ backend
+
 ## GitHub Page
 
 [Vesalius](https://wonlab-cs.github.io/Vesalius/)
