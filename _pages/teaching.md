@@ -13,12 +13,12 @@ author_profile: true
 {% endfor %}
 -->
 
-## Teaching & Supervision
+## Teaching
 
 ### Spatial Transcriptomic - Applied Computational Genomics - Graduate Course  
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
-**April 2024**  
+**2024 - Current**  
 - Spatial Transcriptomic Analysis with Vesalius
 
 ---
@@ -29,8 +29,33 @@ author_profile: true
 **May 2023**  
 - Workshop on workflows and considerations for Spatial Transcriptomic analysis
 
+---
+
+### Graduate Laboratory Assistant (GLA)  
+**University of Essex**  
+*Colchester, UK*  
+**February 2017 - April 2020**  
+- Computational Data Analysis: R for Life Sciences  
+- Genome Bioinformatics - GLA  
+- Genomics - GLA  
 
 ---
+
+### Lecturer  
+**University of Essex**  
+*Colchester, UK*  
+**February 2017 - April 2019**  
+- Essex Big Data and Analytics Summer School - Lecturer
+
+
+
+## Student Supervision
+
+### Master's Student Supervision  
+**Cedars-Sinai Medical Center - Soongsil University**  
+*Los Angeles, USA - Seoul, Korea*  
+**July 2024 - Current**  
+- Supervision of project students working on the development of Multi-scale spatial methods
 
 ### Master's Student Supervision  
 **BRIC - University of Copenhagen**  
@@ -54,20 +79,3 @@ author_profile: true
 **February 2017 - April 2020**  
 - Supervision of project students working with ChIPanalyser
 
----
-
-### Graduate Laboratory Assistant (GLA)  
-**University of Essex**  
-*Colchester, UK*  
-**February 2017 - April 2020**  
-- Computational Data Analysis: R for Life Sciences  
-- Genome Bioinformatics - GLA  
-- Genomics - GLA  
-
----
-
-### Lecturer  
-**University of Essex**  
-*Colchester, UK*  
-**February 2017 - April 2019**  
-- Essex Big Data and Analytics Summer School - Lecturer

@@ -224,17 +224,17 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  scifi:
+  writing:
     output: true
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _scifi
+  # _writing
   - scope:
       path: ""
-      type: scifi
+      type: writing
     values:
       layout: single
       author_profile: true
