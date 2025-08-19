@@ -465,7 +465,7 @@ Writing
 **Writer**: *Fantasy/Sci-Fi Book Series*  
 **Organization**: Writing - Fiction  
 **Date**: 2020 - Present  
-- Writing a fantasy and science fiction book series  
+- Writing a fantasy and science fiction book series and short stories (Published in Nature Futures)
 
 ---
 

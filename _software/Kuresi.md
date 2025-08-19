@@ -10,5 +10,3 @@ Kuresi is an R package aimed at comparing cancer clusters and clones using eithe
 ## GitHub
 [Kuresi GitHub](https://github.com/patrickCNMartin/Kuresi)
 
-# Publications
-In Progress
