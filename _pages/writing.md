@@ -32,9 +32,10 @@ Science communication through the lens of fictional naratives.
 
 ## Less sci - More fi
 
-###[A rude Awakening](https://www.nature.com/articles/d41586-025-02488-9)
+### [A rude Awakening](https://www.nature.com/articles/d41586-025-02488-9)
 
 The voyage was over. After 300 years in stasis, the crew had reached their new home. It was time to wake up. To start living again. Only … something wasn’t right. They felt different. What had happened while they slept?? (Published in Nature Futures)
+---
 
 ## The Institute
 
