@@ -2,7 +2,7 @@
 title: "Multi-scale and multi-context interpretable mapping of cell states across heterogenous spatial samples."
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: 'https://doi.org/10.1038/s41467-025-62782-y'
 excerpt: 'There is a growing demand for methods that can effectively align and compare spatial data in the absence of obvious visual correspondence. To address this challenge, we developed an interpretable cell mapping strategy by considering spatial context at various scales.'
 date: 2025-08-21
 venue: 'Nature Communications'
