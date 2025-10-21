@@ -13,6 +13,7 @@ Education
 ======
 
 **Ph.D in Biology - Bioinformatics - Biophysics**
+
 *Title: Dissecting the binding mechanisms of transcription factors to DNA using a statistical thermodynamics framework.*
 **University of Essex**  
 *Colchester, UK*  
@@ -101,30 +102,48 @@ Skills
 =====
 ## Computational Skills
 •	High proficiency with R. Developer and maintainer of the Vesalius R package (GitHub-Molecular Systems Biology and Nature Communications publication), the ChIPanalyser package (Computational and Structural Biotechnology Journal - Bioconductor – over 3500 downloads in 2025), the lightR (GitHub), and the Kuresi package (GitHub)
+
 •	Proficient with python and Julia (Bombadillo – GitHub)
+
 •	Experience with containerization and reproducible environments (Docker, Apptainer, Nix, uv, conda)
+
 •	Experience with bash, shell-scripting, UNIX and HPC environments
+
 •	Experience with version control (git, CI/CD GitHub actions)
+
 •	Experience with parallel and distributed computing (Future, Dask, DaskML)
+
 •	Experience with out-of-core chunked formats (h5, zarr)
+
 •	Experience with LaTex, markdown, and automated report building (pandoc)
+
 •	Basic experience with C++ (Vesalius backend) and Rust
+
 
 ---
 
 ## Bioinformatics and Data science Skills
 •	Extensive experience with bulk NGS analysis (ChIP-seq, HiC, RNA-seq, ATAC-seq, DNAse-seq)
+
 •	Extensive experience with single cell and spatial analysis (10X chromium, 10X Visium, 10X VisiumHD, 10X Xenium, Slide-seq, Stereo-seq, Vizgen MERFISH, ICM Proteomics, Spatial-CITE-seq, Spatial-ATAC-seq, Seurat, Scanpy, Vesalius)
+
 •	Experience with pipeline orchestration (Nextflow, grid engines)
+
 •	Experience with Genetic Algorithms, Biophysical Modelling, Computer Vision, Clustering, Dimensionality Reduction, ML/DL/AI Frameworks (PyTorch, TensorFlow, scikit-learn), Regression, Statistical Analysis, Synthetic data, Data integration
+
 
 ---
 ## Soft Skills
 •	Extensive teaching and supervision of undergraduate and post-graduate students at the University of Essex, University of Copenhagen, and Cedars-Sinai Medical Center. Certification in scientific leadership (HFP Consulting BRIC - University of Copenhagen)
+
 •	Extensive experience and proficiency in scientific communication and out-reach through scientific conferences (15 invited-talks and poster including at the ISMB conference), podcast invited guest (The Genomics Lab), and scientific writing (https://pcnmartin.substack.com/).
+
 •	Experience in leading and developing interdisciplinary scientific research from conceptualization to final publication.
+
 •	Strong ability to bridge wet-lab and dry-lab research with research experience in both areas. 
+
 •	Languages: English and French
+
 
 ---
 
