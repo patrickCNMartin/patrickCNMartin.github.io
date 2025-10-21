@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 
-**Ph.D in Biology - Bioinformatics - Biophysics**  
+**Ph.D in Biology - Bioinformatics - Biophysics**
+*Title: Dissecting the binding mechanisms of transcription factors to DNA using a statistical thermodynamics framework.*
 **University of Essex**  
 *Colchester, UK*  
 **Oct 2016 - Jun 2020**
@@ -46,7 +47,9 @@ Work experience
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
 **July 2024 - Present**  
-- Project Data Manager - CIRM DISC0 
+- Project Data Manager - CIRM DISC0 – Responsible for FAIR data sharing compliance.
+- Bioinformatician – Responsible for building reproducible analysis pipelines (Nextflow, Docker/Apptainer, uv)
+ 
 
 ---
 
@@ -54,11 +57,11 @@ Work experience
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
 **Sep 2022 - Present**  
-- Lead Developer - Mapping Spatial omics across samples and Multi-Modal spatial omics  
-- Analyst for a wide variety of biomedical spatial omics data sets - Visium/STOmics/VisiumHD/Curio-seeker/Xenium  
-- Review and Perspective papers  
-- Lead Researcher to understand multi-scale gene expression programs using super-pixels  
-- Lead Bioinformatician for Cancer competitivity projects  
+- Lead Developer - Mapping Spatial omics across samples and Multi-Modal spatial omics. Improved the accuracy of spatial context mapping by 20% compared to state-of-the art methods. Publication in Nature Communications (IF: 16.6)
+- Analysis Pipeline development for Visium/STOmics/VisiumHD/Curio-seeker/Xenium
+- Lead Researcher (Supervision, Research Lead, Pipeline developer) to understand multi-scale genes expression programs using super-pixels. 
+- Lead Bioinformatician (Bioinformatics Research Lead, Lead Developer and Analyst) for Cancer competitivity projects.
+ 
 
 ---
 
@@ -66,8 +69,10 @@ Work experience
 **BRIC - University of Copenhagen**  
 *Copenhagen, DK*  
 **Feb 2020 - Jul 2022**  
-- Lead Researcher - Analysis of Spatial transcriptomics through image processing and computer vision  
-- Analyst on various single-cell projects  
+- Lead Researcher - Analysis of Spatial transcriptomics through image processing and computer vision. Improved detection of territories in spatial data compared to state-of-the-art methods across various spatial contexts. Publication in Molecular Systems Biology (IF: 8.5)
+- Analyst on various single cell projects
+- Graduate student supervision
+ 
 
 ---
 
@@ -75,7 +80,9 @@ Work experience
 **University of Essex**  
 *Colchester, UK*  
 **Sep 2019 - Dec 2019**  
-- Developer of lighteR - an R package dedicated to the analysis and modelling of Photosynthetic efficiency data - Lawson Lab  
+- Developer of the lighteR R package dedicated to the analysis and modelling of Photosynthetic efficiency data. Available on GitHub.
+- Analysis of hundreds of plant photosynthetic data samples and modelled plant response behavior.
+ 
 
 ---
 
@@ -83,36 +90,44 @@ Work experience
 **University of Essex**  
 *Colchester, UK*  
 **Jul 2016 - Oct 2016**  
-- R package development (ChIPanalyser) - Zabet Lab  
+- R package development (ChIPanalyser) – Published in Bioconductor.
+- NGS data analysis
+ 
 
 ---
 
 
-<!-- 
 Skills
-======
+=====
+## Computational Skills
+•	High proficiency with R. Developer and maintainer of the Vesalius R package (GitHub-Molecular Systems Biology and Nature Communications publication), the ChIPanalyser package (Computational and Structural Biotechnology Journal - Bioconductor – over 3500 downloads in 2025), the lightR (GitHub), and the Kuresi package (GitHub)
+•	Proficient with python and Julia (Bombadillo – GitHub)
+•	Experience with containerization and reproducible environments (Docker, Apptainer, Nix, uv, conda)
+•	Experience with bash, shell-scripting, UNIX and HPC environments
+•	Experience with version control (git, CI/CD GitHub actions)
+•	Experience with parallel and distributed computing (Future, Dask, DaskML)
+•	Experience with out-of-core chunked formats (h5, zarr)
+•	Experience with LaTex, markdown, and automated report building (pandoc)
+•	Basic experience with C++ (Vesalius backend) and Rust
 
-**Leadership & Supervision**  
-- Project Data Manager, Teaching, Project Student Supervision, Leadership Training  
+---
 
-**Computational Methods**  
-- Biophysical modelling, Genetic algorithms, Computer Vision, Spatial Biology, Software Development
+## Bioinformatics and Data science Skills
+•	Extensive experience with bulk NGS analysis (ChIP-seq, HiC, RNA-seq, ATAC-seq, DNAse-seq)
+•	Extensive experience with single cell and spatial analysis (10X chromium, 10X Visium, 10X VisiumHD, 10X Xenium, Slide-seq, Stereo-seq, Vizgen MERFISH, ICM Proteomics, Spatial-CITE-seq, Spatial-ATAC-seq, Seurat, Scanpy, Vesalius)
+•	Experience with pipeline orchestration (Nextflow, grid engines)
+•	Experience with Genetic Algorithms, Biophysical Modelling, Computer Vision, Clustering, Dimensionality Reduction, ML/DL/AI Frameworks (PyTorch, TensorFlow, scikit-learn), Regression, Statistical Analysis, Synthetic data, Data integration
 
-**Genomics Data Handling**  
-- scRNA-seq, Spatial Biology (RNA, DNA, Protein, Epigenetic), ATAC-seq, DNAse-seq, RNA-seq, HiC  
+---
+## Soft Skills
+•	Extensive teaching and supervision of undergraduate and post-graduate students at the University of Essex, University of Copenhagen, and Cedars-Sinai Medical Center. Certification in scientific leadership (HFP Consulting BRIC - University of Copenhagen)
+•	Extensive experience and proficiency in scientific communication and out-reach through scientific conferences (15 invited-talks and poster including at the ISMB conference), podcast invited guest (The Genomics Lab), and scientific writing (https://pcnmartin.substack.com/).
+•	Experience in leading and developing interdisciplinary scientific research from conceptualization to final publication.
+•	Strong ability to bridge wet-lab and dry-lab research with research experience in both areas. 
+•	Languages: English and French
 
-**Programming**  
-- R, Python, Julia, C++, Bash, Linux, HPC, Environments, Version Control  
+---
 
-**Communication & Outreach**  
-- Storytelling, Presentations, Scientific Vulgarization, Creative Writing  
-
-**Molecular Biology**  
-- PCR/RT-PCR, DNA/RNA handling, Cloning, NGS, Microscopy  
-
-**Languages**  
-- French, English, Russian (Basic)
--->
 
 Publications
 ======

@@ -30,6 +30,11 @@ Science communication through the lens of fictional naratives.
 
 ---
 
+### [A Love-hate letter to AI](https://pcnmartin.substack.com/p/a-love-hate-letter-to-ai)
+AI promises a better futur but it has some issues. We need to consider Purpose, Cost, and Mundanity.
+
+---
+
 ## Less sci - More fi
 
 ### [A rude Awakening](https://www.nature.com/articles/d41586-025-02488-9)
