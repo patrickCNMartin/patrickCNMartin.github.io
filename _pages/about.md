@@ -23,7 +23,7 @@ I am what is commonly referred to as “pretty clumsy,” to the point where I w
 **My current work focuses on developing tools to understand how cells organize themselves into complex tissues, developing high fidelity synthetic data for the benchmarking of biological AI models, and developing frameworks to usher in the age of declarative biology.**
 
 
-Science fiction has often served as research inspiration for me. It is a window into what we could be and what we might be able to achieve one day.  It might explain why the idea of virtual cells, distrubuted systems, solar punk futures, and planet terraforming is so appealing to me. Thank you, Kim Stanley Robinson...
+Science fiction has often served as research inspiration for me. It is a window into what we could be and what we might be able to achieve one day.  It might explain why the idea of virtual cells, distributed systems, solar punk futures, and planet terraforming is so appealing to me. Thank you, Kim Stanley Robinson...
 
 # Research Interests
 
