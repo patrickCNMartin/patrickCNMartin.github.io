@@ -83,14 +83,14 @@ Analysis repository for Vesalius 2.0.0. (Nature Communications).
 ### [SPIX Analysis](https://github.com/patrickCNMartin/scSPIX_analysis)
 Nextflow pipeline with containers (Docker and Apptainer) with all the analysis related to the Super Pixel (SPIX) project.
 
-Development enviroment handle with Nix.
+Development enviroment handled with Nix.
 
 ---
 
 ### [esgaliant-an](https://github.com/patrickCNMartin/esgaliant-an)
 Nextflow pipeline with containers (Docker and Apptainer) with all the analysis related to the esgliant project.
 
-Development enviroment handle with Nix.
+Development enviroment handled with Nix.
 
 ---
 
