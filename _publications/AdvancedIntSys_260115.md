@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink:  https://doi.org/10.1002/aisy.202500781
 excerpt: 'Here, we present FTGRN (Foundation Transformer for Gene Regulatory Networks), a universal framework for GRN inference based on a pretrain–finetune paradigm. FTGRN integrates gene embeddings derived from Generative Pre-trained Transformer-4 (GPT-4) with publicly available chromatin immunoprecipitation sequencing (ChIP-seq) data to construct a regulatory knowledge base for pretraining a Transformer-based graph neural network.'
-date: 2026-01-215
+date: 2026-01-15
 venue: 'Advanced Intelligent Systems'
 paperurl: 'https://doi.org/10.1002/aisy.202500781'
 citation: 'GuangzhengWeng, HyobinKim, PatrickMartin, JunilKim, Tae-HyungKim, Gi-HoonNam, DonghaKim, Kyoung JaeWon. Adv. Intell. Syst.. 2025; 000, e202500781. https://doi.org/10.1002/aisy.202500781'
