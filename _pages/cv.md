@@ -44,10 +44,19 @@ Education
 
 Work experience
 ======
+
+## Bioinformatics Data Engineer & Research Infrastructure Specialist
+**Karolinska Institute & SciLifeLab**
+*Stockholm, Sweden*
+**April 2026 - Present**
+
+---
+
+
 ## Project Data Manager  
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
-**July 2024 - Present**  
+**July 2024 - March 2026**  
 - Project Data Manager - CIRM DISC0 – Responsible for FAIR data sharing compliance.
 - Bioinformatician – Responsible for building reproducible analysis pipelines (Nextflow, Docker/Apptainer, uv)
  
@@ -57,7 +66,7 @@ Work experience
 ## Research Data Scientist  
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
-**Sep 2022 - Present**  
+**Sep 2022 - March 2026**  
 - Lead Developer - Mapping Spatial omics across samples and Multi-Modal spatial omics. Improved the accuracy of spatial context mapping by 20% compared to state-of-the art methods. Publication in Nature Communications (IF: 16.6)
 - Analysis Pipeline development for Visium/STOmics/VisiumHD/Curio-seeker/Xenium
 - Lead Researcher (Supervision, Research Lead, Pipeline developer) to understand multi-scale genes expression programs using super-pixels. 
