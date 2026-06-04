@@ -24,11 +24,11 @@ author:
   avatar           : "me.jpg"
   name             : "Patrick CN Martin, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Research Data Scientist - Bioinformatician - Data Manager - Molecular Biologist - Writer"
-  location         : "West Hollywood, USA"
-  employer         : "Cedars-Sinai Medical Center"
+  bio              : "Research Infrastructure Specialist - Bioinformatician - Molecular Biologist - Writer"
+  location         : "Solna, Sweden"
+  employer         : "Karolinska Institute - ScilifeLab"
   uri              : # URL
-  email            : "patrick.martin@cshs.org" 
+  email            : "patrick.martin@ki.se" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

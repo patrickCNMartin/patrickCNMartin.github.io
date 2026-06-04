@@ -12,14 +12,13 @@ redirect_from:
 
 Welcome, Traveller!
 
-I am a Bioinformatics Data Engineer and Research Infrastructure Specialist.
+I am a Bioinformatics Data Engineer and Research Infrastructure Specialist at Karolinska Institute and ScilifeLab (Sweden).
 
-I aim to make the [Solar Punk Aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U) a reality through lightweight AI models and declarative biology to produce better and cleaner biotechnology.
+I aim to make the [Solar Punk Aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U) a reality through lightweight AI models,declarative biology, and distributed/federated infrastructure to produce better and cleaner biotechnology.
 
 I started as a molecular biologist but realized that computational biology and bioinformatics was far more fun and safer.
 
 I am what is commonly referred to as “pretty clumsy,” to the point where I would probably need my own lab safety hazard training section. To quote a friend when I once tripped and fell on a flat beach: “How on earth did you manage to survive this long?”
-
 
 Science fiction has often served as research inspiration for me. It is a window into what we could be and what we might be able to achieve one day.  It might explain why the idea of virtual cells, distributed systems, solar punk futures, and planet terraforming is so appealing to me. Thank you, Kim Stanley Robinson...
 
