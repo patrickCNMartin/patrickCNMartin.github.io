@@ -49,6 +49,10 @@ Work experience
 **Karolinska Institute & SciLifeLab**
 *Stockholm, Sweden*
 **April 2026 - Present**
+- Development of research infrastructure tools 
+- Integration of AI/LLMs into scientific wokflows
+- Providing Bioinformatics and AI support
+- Futurism Workshops
 
 ---
 
@@ -112,13 +116,15 @@ Skills
 ## Computational Skills
 •	High proficiency with R. Developer and maintainer of the Vesalius R package (GitHub-Molecular Systems Biology and Nature Communications publication), the ChIPanalyser package (Computational and Structural Biotechnology Journal - Bioconductor – over 3500 downloads in 2025), the lightR (GitHub), and the Kuresi package (GitHub)
 
-•	Proficient with python and Julia (Bombadillo – GitHub)
+•	Proficient with python and Julia 
 
 •	Experience with containerization and reproducible environments (Docker, Apptainer, Nix, uv, conda)
 
 •	Experience with bash, shell-scripting, UNIX and HPC environments
 
 •	Experience with version control (git, CI/CD GitHub actions)
+
+• Experience REST API integration and tooling; some API development.
 
 •	Experience with parallel and distributed computing (Future, Dask, DaskML)
 
@@ -136,9 +142,11 @@ Skills
 
 •	Extensive experience with single cell and spatial analysis (10X chromium, 10X Visium, 10X VisiumHD, 10X Xenium, Slide-seq, Stereo-seq, Vizgen MERFISH, ICM Proteomics, Spatial-CITE-seq, Spatial-ATAC-seq, Seurat, Scanpy, Vesalius)
 
-•	Experience with pipeline orchestration (Nextflow, grid engines)
+•	Experience with pipeline orchestration (Nextflow,snakemake, grid engines)
 
 •	Experience with Genetic Algorithms, Biophysical Modelling, Computer Vision, Clustering, Dimensionality Reduction, ML/DL/AI Frameworks (PyTorch, TensorFlow, scikit-learn), Regression, Statistical Analysis, Synthetic data, Data integration
+
+• Experience with local LLM deployment, AI coding agents, and AI integration.
 
 
 ---
@@ -332,6 +340,12 @@ Teaching
 =======
 
 ## Teaching
+
+## Furturism - Exploring strategic planning tools 
+**Lehtiö Lab Retreat -Karolinska Institute - ScilifeLab**
+**Stockholm, Sweden**
+**September 2026**
+- Lecture and workshop on exploring futures in academic research
 
 ### Spatial Transcriptomic - Applied Computational Genomics - Graduate Course  
 **Cedars-Sinai Medical Center**  

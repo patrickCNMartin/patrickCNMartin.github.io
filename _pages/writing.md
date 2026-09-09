@@ -51,6 +51,9 @@ When AGI tries to find its "Voice"
 
 ---
 
+### [Feed the floors](https://substack.com/@pcnmartin/p-200310317)
+My floors are drying Craig...
+
 ## The Institute
 
 

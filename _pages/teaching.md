@@ -15,10 +15,16 @@ author_profile: true
 
 ## Teaching
 
+## Furturism - Exploring strategic planning tools 
+**Lehtiö Lab Retreat -Karolinska Institute - ScilifeLab**
+**Stockholm, Sweden**
+**September 2026**
+- Lecture and workshop on exploring futures in academic research
+
 ### Spatial Transcriptomic - Applied Computational Genomics - Graduate Course  
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
-**2024 - Current**  
+**2024 - 2026**  
 - Spatial Transcriptomic Analysis with Vesalius
 
 ---
