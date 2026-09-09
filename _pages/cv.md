@@ -124,7 +124,7 @@ Skills
 
 •	Experience with version control (git, CI/CD GitHub actions)
 
-• Experience REST API integration and tooling; some API development.
+• Experience with REST API integration and tooling; some API development.
 
 •	Experience with parallel and distributed computing (Future, Dask, DaskML)
 
