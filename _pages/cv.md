@@ -173,6 +173,14 @@ Publications
 
 ---
 
+Software
+======
+  <ul>{% for post in site.software reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+---
+
 <!-- 
   
 Talks
