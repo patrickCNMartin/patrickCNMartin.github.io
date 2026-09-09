@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Welcome, Traveller!
+
 
 I am a Bioinformatics Data Engineer and Research Infrastructure Specialist at Karolinska Institute and ScilifeLab (Sweden).
 
@@ -29,8 +29,8 @@ My research interests include:
 - Spatial biology/Gene Regulation/Cell Organization/Protein Biology 
 - Reproducible, Scalable, Trusted, Robust pipelines and environments 
 - AI/ML - Distributed Computing
-- Systems Bioloogy
-- Systems Architectire
+- Systems Biology
+- Systems Architecture
 - Synthetic biology and cell engineering  
 
 
