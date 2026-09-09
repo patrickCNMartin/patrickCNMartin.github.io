@@ -49,8 +49,8 @@ Work experience
 **Karolinska Institute & SciLifeLab**
 *Stockholm, Sweden*
 **April 2026 - Present**
-- Development of research infrastructure tools 
-- Integration of AI/LLMs into scientific wokflows
+- Development of research infrastructure tools
+- Integration of AI/LLMs into scientific workflows
 - Providing Bioinformatics and AI support
 - Futurism Workshops
 
@@ -71,10 +71,10 @@ Work experience
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
 **Sep 2022 - March 2026**  
-- Lead Developer - Mapping Spatial omics across samples and Multi-Modal spatial omics. Improved the accuracy of spatial context mapping by 20% compared to state-of-the art methods. Publication in Nature Communications (IF: 16.6)
-- Analysis Pipeline development for Visium/STOmics/VisiumHD/Curio-seeker/Xenium
-- Lead Researcher (Supervision, Research Lead, Pipeline developer) to understand multi-scale genes expression programs using super-pixels. 
-- Lead Bioinformatician (Bioinformatics Research Lead, Lead Developer and Analyst) for Cancer competitivity projects.
+- Designed and built the cross-sample and multi-modal spatial mapping methods in Vesalius, improving spatial context mapping accuracy by 20% over existing methods. First-author publication in *Nature Communications*.
+- Built and maintained the analysis pipelines for Visium, VisiumHD, Xenium, STOmics and Curio-seeker.
+- Owned the multi-scale gene expression programme project end to end — design, implementation, and supervision of the students on it.
+- Bioinformatics lead on the cancer cell-competition projects, from analysis design through to publication.
  
 
 ---
@@ -83,9 +83,9 @@ Work experience
 **BRIC - University of Copenhagen**  
 *Copenhagen, DK*  
 **Feb 2020 - Jul 2022**  
-- Lead Researcher - Analysis of Spatial transcriptomics through image processing and computer vision. Improved detection of territories in spatial data compared to state-of-the-art methods across various spatial contexts. Publication in Molecular Systems Biology (IF: 8.5)
-- Analyst on various single cell projects
-- Graduate student supervision
+- Built Vesalius, bringing image processing and computer vision to spatial transcriptomics; improved territory detection over existing methods across a range of tissue contexts. First-author publication in *Molecular Systems Biology*.
+- Analyst on single cell projects across the institute.
+- Graduate student supervision.
  
 
 ---
@@ -111,10 +111,19 @@ Work experience
 ---
 
 
+Software
+======
+  <ul>{% for post in site.software reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+---
+
+
 Skills
 =====
 ## Computational Skills
-•	High proficiency with R. Developer and maintainer of the Vesalius R package (GitHub-Molecular Systems Biology and Nature Communications publication), the ChIPanalyser package (Computational and Structural Biotechnology Journal - Bioconductor – over 3500 downloads in 2025), the lightR (GitHub), and the Kuresi package (GitHub)
+•	High proficiency with R. Developer and maintainer of the Vesalius R package (GitHub-Molecular Systems Biology and Nature Communications publication), the ChIPanalyser package (Computational and Structural Biotechnology Journal - maintained on Bioconductor since 2018), the lightR (GitHub), and the Kuresi package (GitHub)
 
 •	Proficient with python and Julia 
 
@@ -153,7 +162,7 @@ Skills
 ## Soft Skills
 •	Extensive teaching and supervision of undergraduate and post-graduate students at the University of Essex, University of Copenhagen, and Cedars-Sinai Medical Center. Certification in scientific leadership (HFP Consulting BRIC - University of Copenhagen)
 
-•	Extensive experience and proficiency in scientific communication and out-reach through scientific conferences (15 invited-talks and poster including at the ISMB conference), podcast invited guest (The Genomics Lab), and scientific writing (https://pcnmartin.substack.com/).
+•	Extensive experience and proficiency in scientific communication and out-reach through scientific conferences (15 talks and posters, including at the ISMB conference), podcast invited guest (The Genomics Lab), and scientific writing (https://pcnmartin.substack.com/).
 
 •	Experience in leading and developing interdisciplinary scientific research from conceptualization to final publication.
 
@@ -168,14 +177,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
----
-
-Software
-======
-  <ul>{% for post in site.software reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -200,7 +201,7 @@ Talks
 ======
 ## Presentations  
 
-**Invited Speaker**: *Mapping spatial omics when tissue architecture doesn’t match*  
+**Selected Speaker**: *Mapping spatial omics when tissue architecture doesn’t match*  
 **Event**: ISMB24  
 **Location**: Montreal, Canada  
 **Date**: July 2024  
@@ -422,32 +423,35 @@ Teaching
 
 
   
-Honors & Awards
+Funded Projects
 =====
 
-
-**Grant**: *CIRM DISC0 Grant*  
-**Contribution**: Data Manager Salary Contribution  
+**Project**: *CIRM DISC0 – Discovery Stage Research Project*  
+**Role**: Project Data Manager — data stewardship and FAIR data sharing compliance  
+**Institution**: Cedars-Sinai Medical Center  
 **Location**: Los Angeles, USA  
-**Date**: 2024  
+**Date**: 2024 - 2026  
 
 ---
 
-**Grant**: *Travel Grant*  
-**Event**: Genetic Society - Junior Scientist Conference Travel Grants  
+Honors & Awards
+=====
+
+**Travel Grant**: *Junior Scientist Conference Travel Grant*  
+**Organization**: The Genetics Society  
 **Location**: London, UK  
 **Date**: 2017  
 
 ---
 
-**Grant**: *Travel Grant*  
-**Event**: University of Essex School Travel Grants  
+**Travel Grant**: *School Travel Grant*  
+**Organization**: University of Essex  
 **Location**: Colchester, UK  
 **Date**: 2017  
 
 ---
 
-**Award**: *Award for Best Student Presentation*  
+**Award**: *Best Student Presentation*  
 **Event**: DIANA Science Conference  
 **Location**: Uppsala, Sweden  
 **Date**: 2013  
