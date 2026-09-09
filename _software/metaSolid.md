@@ -12,7 +12,6 @@ Harmonization can be carried out in two ways:
 * Semantic clustering - fields are grouped by embedding similarity and collapsed into consensus terms
 * Target based harmonization - fields are mapped onto a common target vocabulary or schema
 
-The aim is to make meta data usable at the scale required for atlas level and foundation model data sets, where inconsistent annotation is often the main bottleneck.
 
 ## GitHub Page
 
