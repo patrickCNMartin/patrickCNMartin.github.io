@@ -35,7 +35,7 @@ Education
 
 ---
 
-**Leadership Course - HFP Consulting**
+**Leadership Course - HFP Consulting**  
 **BRIC - University of Copenhagen**  
 *Copenhagen, DK*  
 **March 2022**  
@@ -46,9 +46,9 @@ Work experience
 ======
 
 ## Bioinformatics Data Engineer & Research Infrastructure Specialist
-**Karolinska Institute & SciLifeLab**
-*Stockholm, Sweden*
-**April 2026 - Present**
+**Karolinska Institute & SciLifeLab**  
+*Stockholm, Sweden*  
+**April 2026 - Present**  
 - Development of research infrastructure tools
 - Integration of AI/LLMs into scientific workflows
 - Providing Bioinformatics and AI support
@@ -123,7 +123,7 @@ Software
 Skills
 =====
 ## Computational Skills
-•	High proficiency with R. Developer and maintainer of the Vesalius R package (GitHub-Molecular Systems Biology and Nature Communications publication), the ChIPanalyser package (Computational and Structural Biotechnology Journal - maintained on Bioconductor since 2018), the lightR (GitHub), and the Kuresi package (GitHub)
+•	High proficiency with R. Developer and maintainer of the Vesalius R package (GitHub-Molecular Systems Biology and Nature Communications publication), the ChIPanalyser package (Computational and Structural Biotechnology Journal - maintained on Bioconductor since 2018), the lighteR package (GitHub), and the Kuresi package (GitHub)
 
 •	Proficient with python and Julia 
 
@@ -139,7 +139,7 @@ Skills
 
 •	Experience with out-of-core chunked formats (h5, zarr)
 
-•	Experience with LaTex, markdown, and automated report building (pandoc)
+•	Experience with LaTeX, markdown, and automated report building (pandoc)
 
 •	Basic experience with C++ (Vesalius backend) and Rust
 
@@ -149,9 +149,9 @@ Skills
 ## Bioinformatics and Data science Skills
 •	Extensive experience with bulk NGS analysis (ChIP-seq, HiC, RNA-seq, ATAC-seq, DNAse-seq)
 
-•	Extensive experience with single cell and spatial analysis (10X chromium, 10X Visium, 10X VisiumHD, 10X Xenium, Slide-seq, Stereo-seq, Vizgen MERFISH, ICM Proteomics, Spatial-CITE-seq, Spatial-ATAC-seq, Seurat, Scanpy, Vesalius)
+•	Extensive experience with single cell and spatial analysis (10X Chromium, 10X Visium, 10X VisiumHD, 10X Xenium, Slide-seq, Stereo-seq, Vizgen MERFISH, Imaging Mass Cytometry (IMC), Spatial-CITE-seq, Spatial-ATAC-seq, Seurat, Scanpy, Vesalius)
 
-•	Experience with pipeline orchestration (Nextflow,snakemake, grid engines)
+•	Experience with pipeline orchestration (Nextflow, Snakemake, grid engines)
 
 •	Experience with Genetic Algorithms, Biophysical Modelling, Computer Vision, Clustering, Dimensionality Reduction, ML/DL/AI Frameworks (PyTorch, TensorFlow, scikit-learn), Regression, Statistical Analysis, Synthetic data, Data integration
 
@@ -350,16 +350,18 @@ Teaching
 
 ## Teaching
 
-## Furturism - Exploring strategic planning tools 
-**Lehtiö Lab Retreat -Karolinska Institute - ScilifeLab**
-**Stockholm, Sweden**
-**September 2026**
+### Futurism - Exploring strategic planning tools  
+**Lehtiö Lab Retreat - Karolinska Institute - SciLifeLab**  
+*Stockholm, Sweden*  
+**September 2026**  
 - Lecture and workshop on exploring futures in academic research
+
+---
 
 ### Spatial Transcriptomic - Applied Computational Genomics - Graduate Course  
 **Cedars-Sinai Medical Center**  
 *Los Angeles, USA*  
-**2024 - Current**  
+**2024 - 2026**  
 - Spatial Transcriptomic Analysis with Vesalius
 
 ---

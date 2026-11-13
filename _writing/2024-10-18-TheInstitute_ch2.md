@@ -8,7 +8,7 @@ tags:
   - Complex Systems
 ---
 
-A discussion on complex systems and critial tipping points
+A discussion on complex systems and critical tipping points
 
 [Tipping Points](https://pcnmartin.substack.com/p/tipping-points)
 

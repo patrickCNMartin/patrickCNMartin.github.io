@@ -21,17 +21,17 @@ Science fiction plays an important role in the way I do science. I like to tell 
 
 
 ### [What if we contributed to Wikipedia instead of publishing papers?](https://pcnmartin.substack.com/p/what-if-we-contributed-to-wikipedia)
-A disucssion on alternate ways of sharing science and research
+A discussion on alternate ways of sharing science and research
 
 ---
 
 ### [Let me tell you a story](https://pcnmartin.substack.com/p/let-me-tell-you-a-story)
-Science communication through the lens of fictional naratives.
+Science communication through the lens of fictional narratives.
 
 ---
 
 ### [A Love-hate letter to AI](https://pcnmartin.substack.com/p/a-love-hate-letter-to-ai)
-AI promises a better futur but it has some issues. We need to consider Purpose, Cost, and Mundanity.
+AI promises a better future but it has some issues. We need to consider Purpose, Cost, and Mundanity.
 
 ---
 ### [The Emergence of Generative Biology](https://pcnmartin.substack.com/p/the-emergence-of-generative-biology)
@@ -77,13 +77,13 @@ A discussion on the concept of chrono-urbanism and 15 minute cities.
 
 
 ### [Tipping Points](https://pcnmartin.substack.com/p/tipping-points)
-A discussion on complex systems and critial tipping points
+A discussion on complex systems and critical tipping points
 
 ---
 
 
 
 ### [Reorganize the social network](https://pcnmartin.substack.com/p/reorganize-the-social-network)
-From top down hierarchies to distrubuted social systems.
+From top down hierarchies to distributed social systems.
 
 ---

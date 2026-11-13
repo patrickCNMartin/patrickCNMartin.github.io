@@ -14,7 +14,3 @@ Bombadillo aims at offering multi-modal and dynamic simulation of single cell an
 
 ### Rust crate
 [bombadillo-rs](https://github.com/patrickCNMartin/bombadillo-rs)
-
-
-## Publications
-In progress

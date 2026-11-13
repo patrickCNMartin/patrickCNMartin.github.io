@@ -15,11 +15,13 @@ author_profile: true
 
 ## Teaching
 
-## Furturism - Exploring strategic planning tools 
-**Lehtiö Lab Retreat -Karolinska Institute - ScilifeLab**
-**Stockholm, Sweden**
-**September 2026**
+### Futurism - Exploring strategic planning tools  
+**Lehtiö Lab Retreat - Karolinska Institute - SciLifeLab**  
+*Stockholm, Sweden*  
+**September 2026**  
 - Lecture and workshop on exploring futures in academic research
+
+---
 
 ### Spatial Transcriptomic - Applied Computational Genomics - Graduate Course  
 **Cedars-Sinai Medical Center**  

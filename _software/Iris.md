@@ -20,6 +20,3 @@ When a context document for the same work exists, such as a markdown protocol or
 ## Related Software
 
 [Hermetica](https://github.com/patrickCNMartin/Hermetica)
-
-## Publications
-In progress

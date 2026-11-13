@@ -8,7 +8,7 @@ tags:
   - Social
 ---
 
-From top down hierarchies to distrubuted social systems.
+From top down hierarchies to distributed social systems.
 
 [Reorganize the social network](https://pcnmartin.substack.com/p/reorganize-the-social-network)
 

@@ -16,6 +16,3 @@ Harmonization can be carried out in two ways:
 ## GitHub Page
 
 [metaSolid](https://github.com/patrickCNMartin/metaSolid)
-
-## Publications
-In progress

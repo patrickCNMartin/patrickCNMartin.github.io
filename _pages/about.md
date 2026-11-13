@@ -12,9 +12,9 @@ redirect_from:
 
 
 
-I am a Bioinformatics Data Engineer and Research Infrastructure Specialist at Karolinska Institute and ScilifeLab (Sweden).
+I am a Bioinformatics Data Engineer and Research Infrastructure Specialist at Karolinska Institute and SciLifeLab (Sweden).
 
-I aim to make the [Solar Punk Aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U) a reality through lightweight AI models,declarative biology, and distributed/federated infrastructure to produce better and cleaner biotechnology.
+I aim to make the [Solar Punk Aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U) a reality through lightweight AI models, declarative biology, and distributed/federated infrastructure to produce better and cleaner biotechnology.
 
 I started as a molecular biologist but realized that computational biology and bioinformatics was far more fun and safer.
 

@@ -12,6 +12,3 @@ Conda environments will be replaced with containers (Docker and Apptainer) at pu
 ## GitHub Page
 
 [GAND](https://github.com/patrickCNMartin/GAND)
-
-## Publications
-In progress

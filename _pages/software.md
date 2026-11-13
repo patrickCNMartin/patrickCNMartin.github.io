@@ -17,8 +17,11 @@ A non-exhaustive list of coding and analysis projects
 
 # Software Packages
 
+## [LabBrain](https://github.com/lehtiolab/LabBrain)
+Core developer and project lead, leading a team of developers and validators. Tools and skills for AI agents that read and maintain a lab wiki in the Open Knowledge Format (OKF). Code handles provenance, git-hash tracking, index listings and staleness checks; an LLM is only called where a note has to be read, to write summaries and check them for drift.
+
 ## [metaSolid](https://github.com/patrickCNMartin/metaSolid)
-Python package which integrates local/cloud LLMs and semantic embeddings models to generate harmonized meta data fields. Harmonization can results from semantic clustering or against a common target.
+Python package which integrates local/cloud LLMs and semantic embeddings models to generate harmonized meta data fields. Harmonization can result from semantic clustering or against a common target.
 
 ## [Hermetica](https://github.com/patrickCNMartin/Hermetica)
 Protocol version control. Pulls wet lab protocols from multiple sources and provides strict version control by generating a protocol lock file. Wet lab pipeline using multiple protocols are converted into DAG that are also tracked and version controlled. 
@@ -34,7 +37,7 @@ Mac and Windows app for core facility meetings. Pulls recent service requests fr
 
 
 ## [Vesalius](https://github.com/WonLab-CS/Vesalius)
-Dissecting Tissue Anatomy From Spatial Transcriptomics data and Mapping heterogenous Spatial data.
+Dissecting Tissue Anatomy From Spatial Transcriptomics data and Mapping heterogeneous Spatial data.
 
 
 ---
@@ -47,7 +50,7 @@ Spatial Omics simulator including cell-cell interactions.
 ---
 
 ## [Kuresi](https://github.com/patrickCNMartin/Kuresi)
-Assessing Cancer Competivity through ELO style DEG tournaments.
+Assessing Cancer Competitiveness through ELO style DEG tournaments.
 
 
 ---
@@ -70,13 +73,13 @@ Analysis repository for Vesalius 2.0.0. (Nature Communications).
 ## [SPIX Analysis](https://github.com/patrickCNMartin/scSPIX_analysis)
 Nextflow pipeline with containers (Docker and Apptainer) with all the analysis related to the Super Pixel (SPIX) project.
 
-Development enviroment handled with Nix.
+Development environment handled with Nix.
 
 ---
 
 ## [GAND](https://github.com/patrickCNMartin/GAND)
 Nextflow pipeline with conda environments with all the analysis related to the GAND Neuro-degenerative diseases project.
 
-Conda will replaced with containers at publication time. 
+Conda will be replaced with containers at publication time. 
 
 ---

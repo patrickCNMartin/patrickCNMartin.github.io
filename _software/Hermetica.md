@@ -12,6 +12,3 @@ Wet lab pipelines that chain multiple protocols together are converted into a DA
 ## GitHub Page
 
 [Hermetica](https://github.com/patrickCNMartin/Hermetica)
-
-## Publications
-In progress
