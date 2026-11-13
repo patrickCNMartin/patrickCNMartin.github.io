@@ -2,7 +2,6 @@
 title: "Ovarian tumor cells gain competitive advantage by actively reducing the cellular fitness of microenvironment cells"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1038/s41587-024-02453-3
 excerpt: 'Here we demonstrate that the expression of Flower Lose and reduced microenvironment fitness is not a pre-existing condition but, rather, a cancer-induced phenomenon'
 date: 2024-12-09
 venue: 'Nature Biotechnology'

@@ -2,7 +2,6 @@
 title: "Integrating Prior Knowledge Using Transformer for Gene Regulatory Network Inference"
 collection: publications
 category: manuscripts
-permalink:  https://doi.org/10.1002/advs.202409990
 excerpt: 'By combining LLMs ability to distillate biological knowledge from text and deep learning methodologies capturing complex patterns in gene expression data, GRNPT overcomes the limitations of traditional GRN inference methods and enables more accurate and comprehensive understanding of gene regulatory dynamics.'
 date: 2024-11-28
 venue: 'Advanced Science'

@@ -2,7 +2,6 @@
 title: "ChatGPT and large language models in academia: opportunities and challenges"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1186/s13040-023-00339-9
 excerpt: 'In this editorial, we discuss this technology from the academic’s perspective with regard to its limitations and utility for academic writing, education, and programming'
 date: 2023-02-17
 venue: 'BioData Mining'

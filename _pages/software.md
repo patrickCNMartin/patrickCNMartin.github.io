@@ -23,8 +23,11 @@ Python package which integrates local/cloud LLMs and semantic embeddings models 
 ## [Hermetica](https://github.com/patrickCNMartin/Hermetica)
 Protocol version control. Pulls wet lab protocols from multiple sources and provides strict version control by generating a protocol lock file. Wet lab pipeline using multiple protocols are converted into DAG that are also tracked and version controlled. 
 
-## [esgaliant](https://github.com/patrickCNMartin/esgaliant)
-Building Synthetic data to anchor large scale foundations models and understand that actual biology of large scale data sets.
+## [Iris](https://github.com/patrickCNMartin/Iris)
+OCR + LLM lab note augmentation. Scanned lab notes are converted to markdown by OCR, then a local LLM corrects OCR errors and translates non-English text. Context documents, such as Hermetica protocol lock files, are used to fill gaps and fix values. Everything runs locally.
+
+## [Timekeeper](https://github.com/patrickCNMartin/timekeeper)
+Mac and Windows app for core facility meetings. Pulls recent service requests from the iLab API and builds the meeting PowerPoint deck and a TSV summary table comparing requested and submitted samples.
 
 
 ---
@@ -66,13 +69,6 @@ Analysis repository for Vesalius 2.0.0. (Nature Communications).
 
 ## [SPIX Analysis](https://github.com/patrickCNMartin/scSPIX_analysis)
 Nextflow pipeline with containers (Docker and Apptainer) with all the analysis related to the Super Pixel (SPIX) project.
-
-Development enviroment handled with Nix.
-
----
-
-## [esgaliant-an](https://github.com/patrickCNMartin/esgaliant-an)
-Nextflow pipeline with containers (Docker and Apptainer) with all the analysis related to the esgliant project.
 
 Development enviroment handled with Nix.
 
