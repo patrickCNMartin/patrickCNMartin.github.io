@@ -39,6 +39,11 @@ From genome language models to functional phages
 
 ---
 
+### [There is no inherent value to intelligence](https://pcnmartin.substack.com/p/there-is-no-inherent-value-to-intelligence)
+Intelligence is but a cog in the system
+
+---
+
 ## Less sci - More fi
 
 ### [A rude Awakening](https://www.nature.com/articles/d41586-025-02488-9)

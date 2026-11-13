@@ -6,7 +6,7 @@ excerpt: 'We present PersonaAI, an interactive agentic-AI framework that acts as
 date: 2026-01-20
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.64898/2026.01.16.699755'
-citation: 'Byounggook Cho, Gi-Young Lee, Junghyun Jung, Junyeop Kim, GunHo Park, Patrick C. N. Martin, Hyobin Kim, Jeein Oh, Jong-Soo Kim, Jongpil Kim, Tae-Hyung Kim, Kyoung-Jae Won. PersonaAI: An Interactive Agentic-AI Framework for Autonomous Hypothesis Generation and Validation in Aging. bioRxiv 2026.01.16.699755 (2026). https://doi.org/10.64898/2026.01.16.699755'
+citation: 'Cho, B., Lee, G.-Y., Jung, J., Kim, J., Park, G., Martin, P.C.N., Kim, H., Oh, J., Kim, J.-S., Kim, J., Kim, T.-H., Won, K.-J. PersonaAI: An Interactive Agentic-AI Framework for Autonomous Hypothesis Generation and Validation in Aging. bioRxiv 2026.01.16.699755 (2026). https://doi.org/10.64898/2026.01.16.699755'
 ---
 
 Elucidating the mechanisms of aging is impeded by its stochastic, multi-scale nature and cellular heterogeneity, challenges that are compounded by the overwhelming volume of biomedical literature and the complexity of genome-wide datasets. To overcome these barriers, we present PersonaAI, an interactive agentic-AI framework that acts as a digital co-scientist. By integrating literature-based reasoning with autonomous in silico validation, PersonaAI synthesizes over 560,000 aging-related publications via retrieval-augmented generation (RAG) to propose mechanistic hypotheses. These hypotheses are subsequently validated by autonomous agents utilizing single-cell RNA-seq data.

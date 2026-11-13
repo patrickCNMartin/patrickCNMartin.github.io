@@ -6,6 +6,7 @@ excerpt: 'There is a growing demand for methods that can effectively align and c
 date: 2025-08-21
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-025-62782-y'
+citation: 'Martin, P.C.N., Wang, W., Kim, H., Holze, H., Fisher, P.B., Saavedra, A.P., Winn, R.A., Madan, E., Gogna, R., Won, K.J. Multi-scale and multi-context interpretable mapping of cell states across heterogeneous spatial samples. Nat Commun 16, 7814 (2025). https://doi.org/10.1038/s41467-025-62782-y'
 
 ---
 
